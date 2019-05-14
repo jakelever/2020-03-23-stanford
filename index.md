@@ -166,7 +166,7 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and we will do our best to accommodate special need requests in order to facilitate learning. Please notifying the organizers (contact details below) in advance, so they can discuss with you what can be provided.
+  Materials will be provided in advance of the workshop and we will do our best to accommodate special need requests in order to facilitate learning. Please notify the organizers (contact details below) in advance, so they can discuss with you what can be provided.
 </p>
 
 {% comment %}
